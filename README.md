@@ -14,4 +14,6 @@ SqueezeNet | [model](https://pan.baidu.com/s/1o8srJfW)
 
 2.Download the pretrained deploy weights and caffemodel from above link.
 
-3.Put all the files in SSD_HOME/examples/.
+3.Put all the files using git clone https://github.com/ChenYingpeng/caffe-ssd-frameworks.
+
+4.Run demo.py to show the detection result.
